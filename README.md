@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="230" src="https://i.ibb.co/yYcm7GY/Personal-Linked-In-Banner.png"  />
+  <img height="100%" w="100%" src="https://i.ibb.co/yYcm7GY/Personal-Linked-In-Banner.png"  />
 </div>
 
 ###
