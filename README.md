@@ -69,12 +69,13 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 <div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudulturan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="220" alt="languages graph" />
-    <img src="https://streak-stats.demolab.com?user=mahmudulturan&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
-  </div>
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudulturan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="220" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudulturan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="220" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudulturan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=Mahmudul%20Hasan's%20GitHub%20Activity" height="220" alt="stats graph"  />
 </div>
+
+###
