@@ -1,4 +1,4 @@
-[<h1 align="center">Welcome, coders!👋</h1>
+<h1 align="center">Welcome, coders!👋</h1>
 
 ###
 
@@ -69,8 +69,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
 ###
 
 <div align="left">
@@ -78,7 +76,7 @@
  <br>
  </div>
  <div align="center"> 
-   <img src="https://streak-stats.demolab.com?user=mahmudulturan&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+ <img src="https://streak-stats.demolab.com?user=mahmudulturan&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
  </div>
  <div align="right">
  <br>
@@ -87,7 +85,3 @@
 
 ###
 
-
-
-
-](https://github.com/mahmudulhturan/mahmudulhturan/edit/main/README.md)https://github.com/mahmudulhturan/mahmudulhturan/edit/main/README.md
