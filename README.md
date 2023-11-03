@@ -31,16 +31,16 @@
 </div>
 
 <!-- About Me Section -->
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="center">👩‍💻 About Me</h3>
 
 <!-- About Me Description -->
-<p align="left">👨‍💼 <a href="https://www.linkedin.com/in/mahmudulturan/" target="_blank">Mahmudul Hasan</a><br>🌍 Rangpur, Bangladesh<br><br>👨‍💻 Front-End Developer<br>📚 Passionately Pursuing MERN Stack Development<br><br>🚀 Dedicated to crafting exceptional web experiences.<br>💡 Committed to continuous innovation through code.</p>
+<p align="center">👨‍💼 <a href="https://www.linkedin.com/in/mahmudulturan/" target="_blank">Mahmudul Hasan</a><br>🌍 Rangpur, Bangladesh<br><br>👨‍💻 Front-End Developer<br>📚 Passionately Pursuing MERN Stack Development<br><br>🚀 Dedicated to crafting exceptional web experiences.<br>💡 Committed to continuous innovation through code.</p>
 
 <!-- Language and Tools Section -->
-<h3 align="left">🛠 The Tools I Use</h3>
+<h3 align="center">🛠 The Tools I Use</h3>
 
 <!-- Language and Tools Icons -->
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -64,14 +64,13 @@
 
 ###
 <!-- Language Stats and GitHub Activity -->
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudulturan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="220" alt="Language Stats" />
-  <br>
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mahmudulturan&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="220" alt="GitHub Streak" />
 </div>
 <div align="right">
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=mahmudulturan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=Mahmudul%20Hasan's%20GitHub%20Activity" height="220" alt="GitHub Activity" />
 </div>
