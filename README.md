@@ -1,4 +1,4 @@
-<!-- Introduction -->
+[<!-- Introduction -->
 <h1 align="center">Welcome, fellow coders! 👋</h1>
 
 <!-- About Me -->
@@ -74,3 +74,4 @@
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmudulturan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=Mahmudul%20Hasan's%20GitHub%20Activity" height="220" alt="GitHub Activity" />
 </div>
+](https://github.com/password_reset/BCDH3QFB6VDF2JRHG2PC54DFOR6B3BNFMVWWC2LMXNWWC2DNOVSHK3DIOR2XEYLOGAYDCQDHNVQWS3BOMNXW3JLGN5ZGGZOCWN2HO327MZQWG5DPOJPXMZLSNFTGSZLEYKYXI53PL5TGCY3UN5ZF63LFORUG6ZFENZXW4ZN2MZXXEY3FMRPXOZLBNNPXAYLTON3W64TEL5ZGK43FOTBA?auto=true)https://github.com/password_reset/BCDH3QFB6VDF2JRHG2PC54DFOR6B3BNFMVWWC2LMXNWWC2DNOVSHK3DIOR2XEYLOGAYDCQDHNVQWS3BOMNXW3JLGN5ZGGZOCWN2HO327MZQWG5DPOJPXMZLSNFTGSZLEYKYXI53PL5TGCY3UN5ZF63LFORUG6ZFENZXW4ZN2MZXXEY3FMRPXOZLBNNPXAYLTON3W64TEL5ZGK43FOTBA?auto=true
